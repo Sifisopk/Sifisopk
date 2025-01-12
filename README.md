@@ -14,6 +14,8 @@
 
 - **Frameworks & Tools:** Android studio,VS Code, Git
 - **Other Skills:** Responsive Design, UI/UX Basics
+
+  
 ![Sifiso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sifisopk&show_icons=true&theme=radical)
 
 ### Current Projects
