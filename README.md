@@ -1,7 +1,5 @@
 ### Hi there, i'm Sifiso 👋
 
-Aspiring Web & Mobile App Developer | Passionate about Tech & Problem-Solving 🌟
-
 
 ### About Me
 - 🌱 Currently learning Python and JavaScript to enhance my skills.
@@ -24,7 +22,7 @@ Aspiring Web & Mobile App Developer | Passionate about Tech & Problem-Solving �
 
   
 ### Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourusername)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sifiso-khausela/)
 - 📧 Email: sifisokhausela@gmail.com
-- 🌍 [Portfolio]([https://yourportfolio.com](https://sfisodev.xyz/#home)
+- 🌍 [Portfolio](https://sfisodev.xyz/#home)
 
