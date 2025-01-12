@@ -1,4 +1,5 @@
 ### Hi there, i'm Sifiso 👋
+![Welcome Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+Profile!)
 
 
 ### About Me
@@ -22,9 +23,9 @@
 
   
 ### Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/sifiso-khausela/)
+- 💼 LinkedIn profile [LinkedIn](https://www.linkedin.com/in/sifiso-khausela/)
 - 📧 Email: sifisokhausela@gmail.com
-- 🌍 [Portfolio](https://sfisodev.xyz/#home)
+- 🌍 Portfolio Website[Portfolio](https://sfisodev.xyz/#home)
 
   <!-- GitHub Stats from https://github.com/anuraghazra/github-readme-stats -->
 ![Sifiso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sifisopk&show_icons=true&theme=radical)
