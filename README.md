@@ -27,4 +27,4 @@
 - 🌍 Portfolio Website[Portfolio](https://sfisodev.xyz/#home)
 
   <!-- GitHub Stats from https://github.com/anuraghazra/github-readme-stats -->
-![Sifiso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sifisopk&show_icons=true&theme=merko)
+![Sifiso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sifisopk&show_icons=true&theme=gruvbox)
