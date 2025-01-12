@@ -15,6 +15,8 @@
 - **Frameworks & Tools:** Android studio,VS Code, Git
 - **Other Skills:** Responsive Design, UI/UX Basics
 
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 ### Current Projects
 - 🚀 [Empowering the Nation](https://github.com/yourusername/project1): A mobile app for course summaries and fee calculations.
 - 🎨 [Chef's Menu Manager](https://github.com/yourusername/project2): A React Native app for a private chef to manage menus.
