@@ -1,5 +1,4 @@
 ### Hi there, i'm Sifiso 👋
-![Welcome Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+Profile!)
 
 
 ### About Me
@@ -13,7 +12,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-- **Frameworks & Tools:** Android studio,VS Code, Git
+- **Frameworks & Tools:** Android studio,VS Code, Git, Figma
 - **Other Skills:** Responsive Design, UI/UX Basics
 
 ### Current Projects
