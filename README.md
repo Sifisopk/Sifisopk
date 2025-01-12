@@ -16,6 +16,9 @@ Aspiring Web & Mobile App Developer | Passionate about Tech & Problem-Solving �
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
+- **Frameworks & Tools:** React Native, Bootstrap, Git
+- **Other Skills:** Responsive Design, UI/UX Basics
+
 - 🔭 I’m currently working o ...
 - 🌱 I’m currently doing my diploma in software development at IIE ROSEBANK COLLEGE.
 - 👯 I’m looking to collaborate on ...
