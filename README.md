@@ -12,14 +12,15 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 - **Frameworks & Tools:** Android studio,VS Code, Git, Figma
 - **Other Skills:** Responsive Design, UI/UX Basics
 
 ### Current Projects
-- 🚀 [Empowering the Nation](https://github.com/yourusername/project1): A mobile app for course summaries and fee calculations.
-- 🎨 [Chef's Menu Manager](https://github.com/yourusername/project2): A React Native app for a private chef to manage menus.
-- 💻 [Portfolio Website](https://sfisodev.xyz/#home): Showcasing my work as an aspiring developer.
+- 🚀 [Album-page](https://github.com/Sifisopk/Album-page): Album release webpage to view and listen to the latest Albums.
+- 🎨 [Chef's Menu Manageimage-gallery](https://github.com/Sifisopk/image-gallery): Propiks is your treasure chest of free, fabulous photos! 🎨✨
+- 💻 [Menu manager](https://github.com/Sifisopk/Chef-Menu-App): A React Native app for a private chef to manage menus.
 
   
 ### Connect with Me
