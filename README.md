@@ -18,8 +18,8 @@
 - **Other Skills:** Responsive Design, UI/UX Basics
 
 ### Current Projects
-- 🚀 [Album-page](https://github.com/Sifisopk/Album-page): Album release webpage to view and listen to the latest Albums.
-- 🎨 [Chef's Menu Manageimage-gallery](https://github.com/Sifisopk/image-gallery): Propiks is your treasure chest of free, fabulous photos! 🎨✨
+- 🚀 [Album-page](https://sifisopk.github.io/Album-page/): Album release webpage to view and listen to the latest Albums.
+- 🎨 [image-gallery](https://sifisopk.github.io/image-gallery/): Propiks is your treasure chest of free, fabulous photos! 🎨✨
 - 💻 [Menu manager](https://github.com/Sifisopk/Chef-Menu-App): A React Native app for a private chef to manage menus.
 
   
